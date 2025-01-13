@@ -26,9 +26,7 @@ Bu proje, Murat Yücedağ'ın YouTube üzerinde sunduğu C# eğitim serisinin fi
    - Projede **Database-First** yaklaşımıyla veritabanı modeli oluşturuldu.  
    - Tablolar arası ilişkiler Entity Framework ile dinamik bir şekilde yönetildi.
 
-## **Ek Notlar**
-- **Kullanıcı Deneyimi:** Projede kullanıcı dostu bir arayüz tasarlanarak, kullanıcıların kolayca işlem yapabilmesi sağlandı.
-- **Performans Optimizasyonu:** Uygulama performansını artırmak için sorgular optimize edildi ve gereksiz veriler minimalize edildi.
+
 
 ---
 
