@@ -31,4 +31,9 @@ Bu proje, Murat Yücedağ'ın YouTube üzerinde sunduğu C# eğitim serisinin fi
 ---
 
 Bu proje, eğitim sürecinde öğrendiğimiz tüm bilgileri pratiğe dökerek **C# ve Entity Framework** konularında derinlemesine bir anlayış kazandırmayı hedeflemiştir. Proje ayrıca, yazılım geliştirme süreçlerini deneyimleyerek pratik kazanmak açısından değerli bir çalışma olmuştur.
+![Ekran görüntüsü 2025-01-13 210230](https://github.com/user-attachments/assets/647c0cf6-8def-4bd9-be16-0bf1b331538b)
+![Ekran görüntüsü 2025-01-13 210201](https://github.com/user-attachments/assets/9adacc65-1b85-4f0f-9f1b-3c5de3c953ba)
+![Ekran görüntüsü 2025-01-13 210137](https://github.com/user-attachments/assets/6be72cf7-c9ba-474b-92fa-2bdc6df7e2cc)
+
+
 
